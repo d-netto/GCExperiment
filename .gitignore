@@ -1,0 +1,6 @@
+/src/lex.yy.c
+/build/*
+/.vscode/*
+/test/*.bin
+/test/*.ll
+/test/*.result
